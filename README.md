@@ -202,7 +202,7 @@ The first notebook cell installs the main packages used by the project:
 
 ## How to Run
 
-1. Open [`ownrag-projectdone.ipynb`](ownrag-projectdone.ipynb).
+1. Open [`FairGraphRAG.ipynb`](FairGraphRAG.ipynb).
 2. Use a Kaggle notebook environment or download the same O*NET dataset locally.
 3. If running outside Kaggle, update the `BASE_PATH` value near the beginning of the notebook.
 4. Run the cells in order because later cells use the graph, embeddings, indexes, and data frames created earlier.
@@ -220,5 +220,5 @@ The notebook currently uses Kaggle paths such as `/kaggle/input` and `/kaggle/wo
 
 ## Repository Contents
 
-- [`ownrag-projectdone.ipynb`](ownrag-projectdone.ipynb): complete implementation, experiments, examples, and saved-result generation.
+- [`FairGraphRAG.ipynb`](FairGraphRAG.ipynb): complete implementation, experiments, examples, and saved-result generation.
 - `README.md`: technical project explanation and setup notes.
