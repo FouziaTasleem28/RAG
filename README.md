@@ -25,7 +25,3 @@ The notebook installs the Python packages it needs in its first cell. Because it
 ## Project outcome
 
 The result is a prototype that brings together structured career data and natural-language questions. It is intended for exploration and demonstration, not as a final career or hiring decision system.
-
-## Reference material
-
-The project folder also includes the supporting FairGraphRAG paper PDF.
